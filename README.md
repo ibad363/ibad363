@@ -74,15 +74,15 @@ I enjoy working with **spec-driven development**, turning clear specifications i
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ibad363&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=ibad363&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibad363&theme=dark&hide_border=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ibad363&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ibad363&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibad363&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ibad363&icon=0&color=0)](https://visitcount.itsvg.in)
